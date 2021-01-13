@@ -1,0 +1,46 @@
+﻿  BooyerMoore.cpp
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.cpp(7,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.h(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.cpp(27,47): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.cpp(39,16): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.cpp(39,28): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.cpp(64,21): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.cpp(74,47): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.cpp(86,16): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+  RabinKarp.cpp
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.cpp(86,28): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(25,29): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(25,14): warning C4244:  '=': conversion from 'double' to 'Position', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(42,27): warning C4244:  '=': conversion from 'Position' to 'int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(44,28): warning C4244:  '=': conversion from 'Position' to 'int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(58,16): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(58,32): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(72,36): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(72,19): warning C4244:  'initializing': conversion from 'double' to 'Position', possible loss of data
+  Source.cpp
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\RabinKarp.cpp(75,63): warning C4244:  'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(8,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\BooyerMoore.h(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(9,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(10,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(67,19): warning C4244:  'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(73,21): warning C4244:  '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(73,21): warning C4244:         with
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(73,21): warning C4244:         [
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(73,21): warning C4244:             _Rep=__int64
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(73,21): warning C4244:         ]
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(106,19): warning C4244:  'initializing': conversion from '__int64' to 'int', possible loss of data
+  utils.cpp
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(112,21): warning C4244:  '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(112,21): warning C4244:         with
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(112,21): warning C4244:         [
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(112,21): warning C4244:             _Rep=__int64
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\Source.cpp(112,21): warning C4244:         ]
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\utils.cpp(37,32): warning C4244:  'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\StringSearchingAlgorithms\utils.cpp(37,23): warning C4244:  'initializing': conversion from 'std::streamoff' to 'const size_t', possible loss of data
+  Generating code
+  273 of 279 functions (97.8%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  StringSearchingAlgorithms.vcxproj -> C:\Users\John\Desktop\Uni Year 2\Semester 1\Data Structs\Final\String_Search\Release\StringSearchingAlgorithms.exe

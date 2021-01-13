@@ -1,0 +1,1 @@
+one hash function for shorter strings, one for longer strings
